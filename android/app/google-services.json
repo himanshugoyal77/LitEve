@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1082416194693",
+    "project_id": "miniproject-61800",
+    "storage_bucket": "miniproject-61800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082416194693:android:3a41f7f2938d67cce4b5ec",
+        "android_client_info": {
+          "package_name": "com.example.mini_pr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082416194693-93h376oq7nfs8kf2fr68bi2gaa5a0nlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_pr",
+            "certificate_hash": "8e1d9d6deec7094af3d5db6b8e75c308be2554be"
+          }
+        },
+        {
+          "client_id": "1082416194693-h15qnqqc798ggvvbn2l8r2rdcms8oo16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPoM3AbjZQmn0mAfu3OpgFKG4zzKwtAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082416194693-h15qnqqc798ggvvbn2l8r2rdcms8oo16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082416194693:android:1c52265ac9a1f7f0e4b5ec",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082416194693-h15qnqqc798ggvvbn2l8r2rdcms8oo16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPoM3AbjZQmn0mAfu3OpgFKG4zzKwtAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082416194693-h15qnqqc798ggvvbn2l8r2rdcms8oo16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
